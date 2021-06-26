@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>divector.com</title>
+    <link>http://example.org/</link>
+    <description>Recent content on divector.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sat, 26 Jun 2021 09:53:11 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Контакты</title>
+      <link>http://example.org/contacts/</link>
+      <pubDate>Sat, 26 Jun 2021 09:55:07 +0300</pubDate>
+      
+      <guid>http://example.org/contacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://example.org/posts/second/</link>
+      <pubDate>Sat, 26 Jun 2021 09:53:11 +0300</pubDate>
+      
+      <guid>http://example.org/posts/second/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>О проекте</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 26 Jun 2021 09:31:18 +0300</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/posts/first/</link>
+      <pubDate>Sat, 26 Jun 2021 09:03:17 +0300</pubDate>
+      
+      <guid>http://example.org/posts/first/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>

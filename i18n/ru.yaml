@@ -1,0 +1,31 @@
+- id: prev_page
+  translation: "Предыдущая страница"
+
+- id: next_page
+  translation: "Следующая Страница"
+
+- id: read_time
+  translation:
+      one: "1 минута"
+      other: "{{ .Count }} минут"
+
+- id: toc
+  translation: "Оглавление"
+
+- id: translations
+  translation: "Переводы"
+
+- id: home
+  translation: "Домашняя страница"
+
+- id: edit_post
+  translation: "Редактировать"
+
+- id: code_copy
+  translation: "Скопировать в буфер обмена"
+
+- id: code_copied
+  translation: "Скопировано!"
+
+- id: posts
+  translation: "Статьи"

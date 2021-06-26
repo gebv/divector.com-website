@@ -1,0 +1,112 @@
+baseURL: http://example.org/
+languageCode: ru
+defaultContentLanguage: ru
+publishDir: "docs"
+
+theme: "PaperMod"
+title: "divector.com"
+# copyright: "divector.comqwdqwd"
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Variables
+params:
+  env: production
+  homeInfoParams:
+    Title: "Ути пути 🦆"
+    Content: Welcome to my blog
+
+  description: "ExampleSite description"
+  # keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2006-01-02"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Ути пути 🦆
+    subtitle: "Welcome to my blog...."
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Статьи
+        url: posts
+      - name: Теги
+        url: tags
+
+  socialIcons:
+    - name: telegram
+      url: "https://google.com/"
+    - name: instagram
+      url: "https://google.com/"
+    - name: email
+      url: "mailto:hq@divector.com"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+menu:
+  main:
+    - identifier: about
+      name: О проекте
+      url: /about/
+      weight: 10
+    - identifier: search
+      name: Поиск
+      url: /search/
+      weight: 20
+    - identifier: archives
+      name: Статьи
+      url: /archives/
+      weight: 30
+    # - identifier: tags
+    #   name: Категории
+    #   url: /tags/
+    #   weight: 20
+    - identifier: contacts
+      name: Контакты
+      url: /contacts/
+      weight: 40
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
