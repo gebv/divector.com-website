@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/contacts/</loc>
+    <loc>https://www.divector.com/contacts/</loc>
     <lastmod>2021-06-26T09:55:07+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://www.divector.com/</loc>
     <lastmod>2021-06-26T09:53:11+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/first/</loc>
+    <loc>https://www.divector.com/tags/first/</loc>
     <lastmod>2021-06-26T09:53:11+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://www.divector.com/posts/</loc>
     <lastmod>2021-06-26T09:53:11+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/second/</loc>
+    <loc>https://www.divector.com/posts/second/</loc>
     <lastmod>2021-06-26T09:53:11+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://www.divector.com/tags/</loc>
     <lastmod>2021-06-26T09:53:11+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://www.divector.com/about/</loc>
     <lastmod>2021-06-26T09:31:18+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/first/</loc>
+    <loc>https://www.divector.com/posts/first/</loc>
     <lastmod>2021-06-26T09:03:17+03:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://www.divector.com/categories/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://www.divector.com/search/</loc>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://www.divector.com/archives/</loc>
   </url>
 </urlset>

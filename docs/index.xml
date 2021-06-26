@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>divector.com</title>
-    <link>http://example.org/</link>
+    <link>https://www.divector.com/</link>
     <description>Recent content on divector.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 26 Jun 2021 09:53:11 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 09:53:11 +0300</lastBuildDate><atom:link href="https://www.divector.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Контакты</title>
-      <link>http://example.org/contacts/</link>
+      <link>https://www.divector.com/contacts/</link>
       <pubDate>Sat, 26 Jun 2021 09:55:07 +0300</pubDate>
       
-      <guid>http://example.org/contacts/</guid>
+      <guid>https://www.divector.com/contacts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>http://example.org/posts/second/</link>
+      <link>https://www.divector.com/posts/second/</link>
       <pubDate>Sat, 26 Jun 2021 09:53:11 +0300</pubDate>
       
-      <guid>http://example.org/posts/second/</guid>
+      <guid>https://www.divector.com/posts/second/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>О проекте</title>
-      <link>http://example.org/about/</link>
+      <link>https://www.divector.com/about/</link>
       <pubDate>Sat, 26 Jun 2021 09:31:18 +0300</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://www.divector.com/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First</title>
-      <link>http://example.org/posts/first/</link>
+      <link>https://www.divector.com/posts/first/</link>
       <pubDate>Sat, 26 Jun 2021 09:03:17 +0300</pubDate>
       
-      <guid>http://example.org/posts/first/</guid>
+      <guid>https://www.divector.com/posts/first/</guid>
       <description>Desc Text.</description>
     </item>
     
