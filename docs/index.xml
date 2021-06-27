@@ -5,7 +5,8 @@
     <link>https://www.divector.com/</link>
     <description>Recent content on divector.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="https://www.divector.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <copyright>@ 2021 [Исцели свою душу. Метод SLLS](https://www.divector.com/)</copyright><atom:link href="https://www.divector.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Услуги</title>
       <link>https://www.divector.com/services/</link>
@@ -22,7 +23,7 @@
       <pubDate>Sat, 26 Jun 2021 09:55:07 +0300</pubDate>
       
       <guid>https://www.divector.com/contacts/</guid>
-      <description></description>
+      <description> hq@divector.com  </description>
     </item>
     
     <item>
