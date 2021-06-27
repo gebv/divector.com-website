@@ -42,7 +42,7 @@ params:
   tocopen: false
 
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Ути пути 🦆
     subtitle: "Welcome to my blog...."
     imageUrl: "<img location>"
@@ -50,10 +50,10 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Статьи
-        url: posts
-      - name: Теги
-        url: tags
+      - name: О проекте
+        url: about
+      - name: Услуги
+        url: services
 
   socialIcons:
     - name: telegram
@@ -88,6 +88,10 @@ menu:
       name: О проекте
       url: /about/
       weight: 10
+    - identifier: services
+      name: Услуги
+      url: /services/
+      weight: 11
     - identifier: search
       name: Поиск
       url: /search/
