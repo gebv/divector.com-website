@@ -5,7 +5,7 @@ publishDir: "docs"
 
 theme: "PaperMod"
 title: "divector.com"
-# copyright: "divector.comqwdqwd"
+copyright: "@ 2021 [Исцели свою душу. Метод SLLS](https://www.divector.com/)"
 paginate: 5
 
 enableRobotsTXT: true
@@ -16,13 +16,13 @@ buildExpired: false
 # https://github.com/adityatelange/hugo-PaperMod/wiki/Variables
 params:
   env: production
-  homeInfoParams:
-    Title: "Ути пути 🦆"
-    Content: Welcome to my blog
+  # homeInfoParams:
+  #   Title: "Ути пути 🦆"
+  #   Content: Welcome to my blog
 
-  description: "ExampleSite description"
-  # keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  description: "Исцели свою душу. Метод SLLS."
+  keywords: [Human Design, Избавляю от страданий, Целитель душ, Авторский метод]
+  author: СветЛана Люсия Шанэ
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
@@ -43,12 +43,12 @@ params:
 
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Ути пути 🦆
-    subtitle: "Welcome to my blog...."
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    title: Исцели свою душу
+    subtitle: "Метод SLLS"
+    # imageUrl: "<img location>"
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: my image
     buttons:
       - name: О проекте
         url: about
@@ -56,10 +56,10 @@ params:
         url: services
 
   socialIcons:
-    - name: telegram
-      url: "https://google.com/"
-    - name: instagram
-      url: "https://google.com/"
+    # - name: telegram
+    #   url: "https://google.com/"
+    # - name: instagram
+    #   url: "https://google.com/"
     - name: email
       url: "mailto:hq@divector.com"
 

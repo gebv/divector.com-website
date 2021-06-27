@@ -5,16 +5,6 @@
     <link>https://www.divector.com/tags/</link>
     <description>Recent content in Tags on divector.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Sat, 26 Jun 2021 09:53:11 +0300</lastBuildDate><atom:link href="https://www.divector.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>first</title>
-      <link>https://www.divector.com/tags/first/</link>
-      <pubDate>Sat, 26 Jun 2021 09:53:11 +0300</pubDate>
-      
-      <guid>https://www.divector.com/tags/first/</guid>
-      <description></description>
-    </item>
-    
+    <language>ru</language><atom:link href="https://www.divector.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
