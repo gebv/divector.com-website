@@ -4,16 +4,16 @@ date: {{ .Date }}
 # https://github.com/adityatelange/hugo-PaperMod/wiki/Variables#page-variables
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-author: "Me"
+# tags: ["first"]
+author: "Люсия"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+# description: "Desc Text."
+# canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

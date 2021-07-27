@@ -9,3 +9,5 @@ ShowPostNavLinks: true
 ---
 
 * [hq@divector.com](mailto:hq@divector.com)
+* [Instagram @mydivector](https://instagram.com/mydivector)
+* [Telegram @divector](https://t.me/divector)

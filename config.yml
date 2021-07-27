@@ -56,10 +56,10 @@ params:
         url: services
 
   socialIcons:
-    # - name: telegram
-    #   url: "https://google.com/"
-    # - name: instagram
-    #   url: "https://google.com/"
+    - name: telegram
+      url: "https://t.me/divector"
+    - name: instagram
+      url: "https://instagram.com/mydivector"
     - name: email
       url: "mailto:hq@divector.com"
 
