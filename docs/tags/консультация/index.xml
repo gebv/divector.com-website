@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on divector.com</title>
-    <link>https://www.divector.com/posts/</link>
-    <description>Recent content in Posts on divector.com</description>
+    <title>консультация on divector.com</title>
+    <link>https://www.divector.com/tags/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F/</link>
+    <description>Recent content in консультация on divector.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>@ 2021 [Исцели свою душу. Метод SLLS](https://www.divector.com/)</copyright>
-    <lastBuildDate>Tue, 27 Jul 2021 13:53:18 +0300</lastBuildDate><atom:link href="https://www.divector.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jul 2021 13:53:18 +0300</lastBuildDate><atom:link href="https://www.divector.com/tags/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Экспресс консультация</title>
       <link>https://www.divector.com/posts/express1/</link>
@@ -17,15 +17,6 @@
       <description>В свете запуска проекта мы проводим акцию! Успей! Предлагаем вам совершенно бесплатно получить ответ на один ваш любой волнующий вопрос! Мы предоставим вам разбор вашей проблемы, ее причины и решение.
 Для этого:
  Заполните форму https://forms.gle/aSDTSNjStCdbmnUr8 Подпишитесь на инстаграмм https://instagram.com/mydivector Подпишитесь на телеграм канал https://t.me/divector Приветствуется репост  Первые 100 человек смогут получить данную услугу бесплатно! Успехов!</description>
-    </item>
-    
-    <item>
-      <title>Добро пожаловать!</title>
-      <link>https://www.divector.com/posts/welcome/</link>
-      <pubDate>Tue, 27 Jul 2021 13:32:46 +0300</pubDate>
-      
-      <guid>https://www.divector.com/posts/welcome/</guid>
-      <description>Добро пожаловать! Поздравляем с тем, что вы здесь! Здесь вы сможете решить любые ваши проблемы и изменить свою жизнь по своему усмотрению! Приглашаем вас к нам на консультации! Запись на экспресс-консультацию https://forms.gle/8AVjEkKADZaUoJCX8</description>
     </item>
     
   </channel>
