@@ -24,7 +24,7 @@ params:
 
   description: "Исцели свою душу. Метод SLLS."
   keywords: [human design, избавление от страданий, астрология, human design, психология, нумерология, диагностика, джйотиш, генные ключи, дизайн человека, таро, чакры человека]
-  author: СветЛана Люсия Шанэ
+  author: divector
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light

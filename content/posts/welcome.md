@@ -5,7 +5,7 @@ date: 2021-07-27T13:32:46+03:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["общее"]
-author: "СветЛана Люсия Шанэ"
+author: "divector"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
